@@ -1,0 +1,34 @@
+[
+	{
+		"id": 0,
+		"title": "Max HP Gem",
+		"cost": 1500,
+		"stats":{
+			"maxhp": 1,
+			"hpregen": 0,
+			"maxn2o": 0,
+			"n2oregen": 0,
+			"maxshield": 0,
+			"shieldregen": 0,
+			"force": 0,
+			"armour": 0
+		},
+		"stackable": true
+	},
+	{
+		"id": 1,
+		"title": "Max Shield Gem",
+		"cost": 2000,
+		"stats":{
+			"maxhp": 0,
+			"hpregen": 0,
+			"maxn2o": 0,
+			"n2oregen": 0,
+			"maxshield": 1,
+			"shieldregen": 0,
+			"force": 0,
+			"armour": 0
+		},
+		"stackable": true
+	}
+]
